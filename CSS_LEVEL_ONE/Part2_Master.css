@@ -1,0 +1,19 @@
+body{
+    background-color: beige;
+}
+
+div{
+    background-color: cadetblue;
+    border-color: brown;
+    border-width:3px;
+    border-style: dashed;
+}
+
+p{
+    color:rgb(25, 123, 61);
+}
+
+span{
+    background-color: red;
+    color: black;
+}

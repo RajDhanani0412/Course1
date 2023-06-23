@@ -1,0 +1,25 @@
+/* This is the comment */
+
+/*
+selected tag{
+    property: value;
+}
+*/
+
+h1{
+    color: coral;
+    background-color: aqua;
+}
+
+li{
+    color: rgb(81, 242, 41);
+    background-color: #4a597a;
+}
+
+p{
+    color: #db16d1;
+}
+
+h4{
+    color: rgba(81, 242, 41, 0.4);
+}
