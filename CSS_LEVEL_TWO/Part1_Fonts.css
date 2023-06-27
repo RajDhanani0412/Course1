@@ -1,0 +1,23 @@
+h1{
+    font-family: "Arial";
+}
+
+p{
+    font-family: 'Raleway', sans-serif;
+    font-weight:bold;
+}
+
+body{
+    font-size: 20px;
+}
+
+/*1em = 16px
+2em = 32px*/
+
+#two{
+    font-size: 1.5em;
+}
+
+h1{
+    text-align: center ;
+}
